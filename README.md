@@ -1,2 +1,2 @@
 # Fordele grupper
-Fordele studenter inn i like store grupper basert gruppert på gitte kriterier
+Fordele studenter likt inn i grupper basert på gitte kriterier og en maks størrelse
